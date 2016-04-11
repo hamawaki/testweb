@@ -201,6 +201,16 @@
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
     <Content Include="Scripts\_references.js" />
+    <Content Include="Shared\css\common.css" />
+    <Content Include="Shared\images\banner.gif" />
+    <Content Include="Shared\images\bg_footmenu.gif" />
+    <Content Include="Shared\images\bg_menu.gif" />
+    <Content Include="Shared\images\bg_pagetop.gif" />
+    <Content Include="Shared\images\icatch.jpg" />
+    <Content Include="Shared\images\logo.gif" />
+    <Content Include="Shared\images\photo_sample.gif" />
+    <Content Include="Shared\js\common.js" />
+    <Content Include="Shared\js\jquery.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
